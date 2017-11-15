@@ -1,4 +1,4 @@
-#skrypt importuje z API pilotów Millennium Falcona i oblicza ich BMI
+#skrypt importuje z API dane pilotów Millennium Falcona i oblicza ich BMI
 
 import requests
 def isT(adres, nazwa):
